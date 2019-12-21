@@ -1,0 +1,9 @@
+/weather
+/time <horas> <minutos>
+/freezetime 
+/morning
+/noon
+/evening
+/night
+/freezeweather 
+/blackout 
