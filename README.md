@@ -1,2 +1,2 @@
 # icyrp
-scripts para o icy
+scripts para o icy config flip
